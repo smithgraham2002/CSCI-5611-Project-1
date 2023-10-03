@@ -1,8 +1,6 @@
 # CSCI-5611-Project-1
 
-Created by 
-# Andrew Minerva
-and Graham Smith
+Created by Andrew Minerva and Graham Smith
 
 Features:
 1. Basic Pinball Dynamics: A ball falls down the screen, and accelerates according to gravity.
