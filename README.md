@@ -11,3 +11,4 @@ Features:
 8. Progressive Objectives: If the three circles in the tiny santa's hat are lit up, a point multiplier is applied. If all of the circles are lit up, multi-ball is unlocked.
 9. Pinball Game Mechanics: Flippers are included to keep the ball in play. When all lives are lost, a game over screen is displayed.
 
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/YpJAnOSJA4E)
