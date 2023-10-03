@@ -15,6 +15,7 @@ Features:
 (Framerate suffered due to screen recording)
 
 [![Multiball and Score Multiplier(Multiple Balls Interacting)](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/AQSvEMyAUy8)
+Score multiplier activates when the three circles in the hat are lit up. Multi-ball activates when all of the circles are lit up.
 
 While creating our pinball game, we had trouble handling the collisions between the flippers and the balls. At first the problem was that the ball would travel directly through the flippers at low framerates. Our initial solution was to correct the ball's position by adding the scaled surface velocity of the flipper at the closest point to the ball. This worked when the flipper was coming up, but on the way down, the ball would be moved under the flipper. To correct this issue, we added a boolean for each flipper that would track if the flipper was moving upward. If the boolean was false, the surface velocity of the flipper would instead be subtracted from the position of the ball.
 
