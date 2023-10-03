@@ -1,5 +1,7 @@
 # CSCI-5611-Project-1
 
+Created by #Andrew Minerva and Graham Smith
+
 Features:
 1. Basic Pinball Dynamics: A ball falls down the screen, and accelerates according to gravity.
 2. Multiple Balls Interacting: By lighting up all of the circular objects at once, the player can earn multi-ball. More balls are added to the simulation that bounce off of each other.
